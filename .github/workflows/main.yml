@@ -17,4 +17,4 @@ jobs:
       uses: docker/build-push-action@v3
       with:
         push: true
-        tags: registry.cloud.cbh.kth.se/deploy/placeholder
+        tags: registry.cloud.cbh.kth.se/deploy/vm-http-proxy
